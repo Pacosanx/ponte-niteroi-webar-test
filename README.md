@@ -2,7 +2,7 @@
 
 Mismo formato que Rua y Bahia: Iniciar prueba, cámara trasera a pantalla completa y diagnóstico.
 
-Lens ID: `7449cff2-3fc4-4c0f-9e22-cee9638efeb3`
+Lens ID: `fd3351e0-b3e1-4e42-a7fb-c8abb07aa98e`
 Lens Group ID: `79c8ec9f-6166-4abd-861f-651aa8d9fc43`
 
 Apuntar a una superficie para colocar la maqueta.
