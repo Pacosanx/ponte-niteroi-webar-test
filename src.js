@@ -1,6 +1,6 @@
 import { bootstrapCameraKit, createMediaStreamSource } from '@snap/camera-kit';
 
-const lensId = 'fd3351e0-b3e1-4e42-a7fb-c8abb07aa98e';
+const lensId = '7449cff2-3fc4-4c0f-9e22-cee9638efeb3';
 const cameraKitConfig = { apiToken: 'eyJhbGciOiJIUzI1NiIsImtpZCI6IkNhbnZhc1MyU0hNQUNQcm9kIiwidHlwIjoiSldUIn0.eyJhdWQiOiJjYW52YXMtY2FudmFzYXBpIiwiaXNzIjoiY2FudmFzLXMyc3Rva2VuIiwibmJmIjoxNzk0Njc2MzE3LCJzdWIiOiJlMGY1ZTI0OS1iNTJhLTQyZmYtYWVmNy03YjE1MDcxY2I0Zjh-U1RBR0lOR35iOTUzNjUyNy0yYzQwLTQwMTUtOTQ5YS00MTVmMmI1NDU1ZmUifQ.8rbLADWnod5gA9Gs3HlNpTDZBou3WZLqPGnwXVVXHI4', lensGroupId: '79c8ec9f-6166-4abd-861f-651aa8d9fc43' };
 const form = document.querySelector('#config');
 const status = document.querySelector('#status');
